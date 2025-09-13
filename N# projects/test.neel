@@ -1,0 +1,5 @@
+a = add 3 4 5
+print a in gradient #02f #ee3f31
+question(answer,img)=what is an apple if a=12
+print answer in #ee3f31
+print img if a=12

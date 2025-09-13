@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Regular hexagon -->
+  <polygon points="64,4 120,36 120,92 64,124 8,92 8,36" 
+           fill="#28a745" stroke="#1e7e34" stroke-width="6"/>
+  
+  <!-- N# text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        font-family="Segoe UI, sans-serif" font-size="48" fill="white" font-weight="bold">N#</text>
+</svg>
